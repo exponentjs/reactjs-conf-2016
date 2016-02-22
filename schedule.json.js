@@ -17,14 +17,15 @@ let day1Json = [
   {
     startTime: '10:30',
     endTime: '11:00',
-    title: 'How To Use React In a Wedding Gift Without Being A Bad Friend',
+    title: 'React: What Lies Ahead',
     speaker: {
-      name: 'Keith Poplawski',
-      company: 'Namely',
-      avatarUrl: 'http://conf.reactjs.com/img/keith-poplawski.jpg'
+      name: 'Ben Alpert',
+      company: 'Facebook',
+      avatarUrl: 'http://conf.reactjs.com/img/ben-alpert.jpg'
     },
     description: [
-      'As a belated gift, I’ve created a physical, standalone version of Jeopardy. Featuring React as the project’s interface, an Arduino and a node app running on a Raspberry Pi create an engaging and unique user experience. The presentation highlights React’s potential to respond to input beyond the mouse, including touch, physical buttons, and speech recognition.'
+      'In the last few years, React has exploded in popularity, now supporting hundreds of thousands of developers on the web. React also lies at the heart of React Native, which has made it easier than ever to build native mobile apps.',
+      'On the React team, we’re continually making performance and stability improvements so that React can be a strong foundation. But in our role of helping developers build high-quality products quickly, what new opportunities for React do we see in the future? In this talk, hear about the latest challenges we’re facing at Facebook, how React might be able to help solve them in the future, and how we think about developing React.'
     ]
   },
   {
@@ -133,14 +134,14 @@ let day1Json = [
   {
     startTime: '5:00',
     endTime: '5:30',
-    title: 'Redux, Re-frame, Relay, Om/next, oh my!',
+    title: 'How To Use React In a Wedding Gift Without Being A Bad Friend',
     speaker: {
-      name: 'Jared Forsyth',
-      company: 'Khan Academy',
-      avatarUrl: 'http://conf.reactjs.com/img/jared-forsyth.jpg'
+      name: 'Keith Poplawski',
+      company: 'Namely',
+      avatarUrl: 'http://conf.reactjs.com/img/keith-poplawski.jpg'
     },
     description: [
-      'Managing client-side state is pretty easy for TodoMVC, but soon after you move beyond that, your app can quickly get brittle, discouraging re-use and significantly complicating maintenance. I will give an overview of a few of the libraries/frameworks that have appeared recently that try to address this problem, show how each of them looks when used in the React context, and then discuss advantages, disadvantages, common patterns, and what we can learn.'
+      'As a belated gift, I’ve created a physical, standalone version of Jeopardy. Featuring React as the project’s interface, an Arduino and a node app running on a Raspberry Pi create an engaging and unique user experience. The presentation highlights React’s potential to respond to input beyond the mouse, including touch, physical buttons, and speech recognition.'
     ]
   },
   {
@@ -148,7 +149,7 @@ let day1Json = [
     endTime: '6:30',
     title: 'Lightning Talks',
     speaker: {
-      name: 'Andy Matuschak (Khan Academy), Vivian Cromwell (Chop Technologies, Inc), Vivek Patel (Google), Maria Hollweck (Girls Can Do IT), Kyle Matthews (RelateRocket), Eric Vlad Vicenti (Facebook), Andres Suarez (Facebook), Jake Taylor (Fuse) and Ken Wheeler (Formidable)',
+      name: 'Andy Matuschak (Khan Academy), Vivian Cromwell (Chop Technologies, Inc), Vivek Patel (Google), Maria Hollweck (Girls Can Do IT), Kyle Matthews (RelateRocket), Eric Vlad Vicenti (Facebook), Andres Suarez (Facebook), Jake Taylor (Fuse), Ken Wheeler (Formidable), and Scott Kyle (Realm)',
       avatarUrl: 'http://charca.me/images/reactjs-conf/logo.png'
     },
     description: [
@@ -160,7 +161,8 @@ let day1Json = [
       'Reducing Navigation',
       'Nuclide hacks for React Native development',
       'Hotter than Hot Reload - Building Native Mobile Apps with Fuse',
-      'Building the Walmart iOS pharmacy with React Native'
+      'Building the Walmart iOS pharmacy with React Native',
+      'A New Way to Persist & Query Data in React Native'
     ]
   },
   {
@@ -212,15 +214,14 @@ let day2Json = [
   {
     startTime: '11:30',
     endTime: '12:00',
-    title: 'React: What Lies Ahead',
+    title: 'Redux, Re-frame, Relay, Om/next, oh my!',
     speaker: {
-      name: 'Ben Alpert',
-      company: 'Facebook',
-      avatarUrl: 'http://conf.reactjs.com/img/ben-alpert.jpg'
+      name: 'Jared Forsyth',
+      company: 'Khan Academy',
+      avatarUrl: 'http://conf.reactjs.com/img/jared-forsyth.jpg'
     },
     description: [
-      'In the last few years, React has exploded in popularity, now supporting hundreds of thousands of developers on the web. React also lies at the heart of React Native, which has made it easier than ever to build native mobile apps.',
-      'On the React team, we’re continually making performance and stability improvements so that React can be a strong foundation. But in our role of helping developers build high-quality products quickly, what new opportunities for React do we see in the future? In this talk, hear about the latest challenges we’re facing at Facebook, how React might be able to help solve them in the future, and how we think about developing React.'
+      'Managing client-side state is pretty easy for TodoMVC, but soon after you move beyond that, your app can quickly get brittle, discouraging re-use and significantly complicating maintenance. I will give an overview of a few of the libraries/frameworks that have appeared recently that try to address this problem, show how each of them looks when used in the React context, and then discuss advantages, disadvantages, common patterns, and what we can learn.'
     ]
   },
   {
