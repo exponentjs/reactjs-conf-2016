@@ -181,7 +181,7 @@ let day2Json = [
   {
     startTime: '10:00',
     endTime: '10:30',
-    title: 'Team × Technology',
+    title: 'React Native is Ready for Prime Time — Team × Technology',
     speaker: {
       name: 'James Ide',
       company: 'Exponent',
