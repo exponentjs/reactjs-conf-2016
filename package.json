@@ -17,7 +17,7 @@
   },
   "exp": {
     "name": "ReactJS Conf 2016",
-    "iconUrl": "http://charca.me/images/reactjs-conf/logo.png",
+    "iconUrl": "https://s3-us-west-2.amazonaws.com/examples-exp/react_conf_2016.png",
     "orientation": "portrait",
     "abiVersion": "4.0.0"
   }
